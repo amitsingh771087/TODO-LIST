@@ -19,7 +19,7 @@ The project is deployed on Vercel.
 - **Frontend**: React.js
 - **Deployment**: Vercel
 
-![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="30" height="30">
 
 ## Setup and Installation
 
